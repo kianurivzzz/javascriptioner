@@ -14,11 +14,11 @@ npx javascriptionaire
 ## Скачать и установить
 ``` bash
 # клонировать
-git clone
+git clone git@github.com:kianurivzzz/javascriptioner.git
 ```
 ```bash
 # перейти в папку
-cd
+cd javascriptioner
 ```
 ```bash
 # установить зависимости
